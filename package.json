@@ -6,9 +6,6 @@
   "scripts": {
     "start": "node app.js"
   },
-  "keywords": [
-    "api"
-  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
